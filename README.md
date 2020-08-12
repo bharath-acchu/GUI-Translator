@@ -40,7 +40,6 @@
 
 
 
-
-                                                  
-                                                  
-                                                  Made </> with :heart:
+## Made with </> Pyyar
+![](images/heart.jpg)
+                                                 
